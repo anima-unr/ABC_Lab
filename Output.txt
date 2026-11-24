@@ -1,0 +1,35 @@
+Select Spice Level for Burger
+1.High 2.Mid 3.Low
+Select Spice Level for Pizza
+1.High 2.Mid 3.Low
+Select Spice Level for Sandwich
+1.High 2.Mid 3.Low
+Select Spice Level for Salad
+1.High 2.Mid 3.Low
+Select Drink Size for Soft Drink?
+1.Large 2.Medium 3.Small
+Select Drink Size for Lemonade?
+1.Large 2.Medium 3.Small
+Select Drink Size for Tea?
+1.Large 2.Medium 3.Small
+Welcome to Hello World
+===================
+Max Slot: 12
+Menu
+===================
+1. Burger: $8.5
+Spice Level: High
+2. Pizza: $18.55
+Spice Level: Mid
+3. Sandwich: $10.5
+Spice Level: Low
+4. Salad: $10.75
+Spice Level: Low
+5. Soft Drink: $2.5
+Drink Size: Large
+6. Lemonade: $3
+Drink Size: Medium
+7. Tea: $3.5
+Drink Size: Small
+8. Matcha: $5.5
+Drink Size: Small
